@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/sunset-drive/index.html" },
+    { "source": "/:path*", "destination": "/sunset-drive/:path*" }
+  ]
+}
